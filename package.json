@@ -16,7 +16,7 @@
   "devDependencies": {
     "canvg": "^3.0.7",
     "sass": "^1.49.0",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^16.0.4",
     "vite": "^2.8.0",
     "vue-template-compiler": "^2.6.11"
   }
