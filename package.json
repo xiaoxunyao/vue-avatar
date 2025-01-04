@@ -8,16 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "node-sass": "^7.0.1",
+    "node-sass": "^7.0.3",
     "vite-plugin-vue2": "^1.9.3",
-    "vue": "^2.6.11",
+    "vue": "^2.7.16",
     "vue-meta": "^2.4.0"
   },
   "devDependencies": {
-    "canvg": "^3.0.7",
-    "sass": "^1.49.0",
+    "canvg": "^3.0.10",
+    "sass": "^1.83.1",
     "sass-loader": "^8.0.2",
-    "vite": "^2.8.0",
-    "vue-template-compiler": "^2.6.11"
+    "vite": "^2.9.18",
+    "vue-template-compiler": "^2.7.16"
   }
 }
